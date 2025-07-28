@@ -4,8 +4,8 @@ import requests
 import time
 
 # Telegram Settings
-BOT_TOKEN = '8061002248:AAE0-xCnhHZiqfzvGB0QX6fZB6IXE7gw7PE'
-CHAT_ID = '5276923086' 
+BOT_TOKEN = 'Isi Bot Token anda'
+CHAT_ID = 'Isi Chat ID anda' 
 
 # Fungsi kirim alert ke Telegram
 def send_alert(image_path, label):
